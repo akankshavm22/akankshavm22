@@ -79,11 +79,11 @@
   <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://linkedin.com/in/akanksha-mane" target="_blank">
+<a href="https://www.linkedin.com/in/akankshavmane/" target="_blank">
   <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/Akanksha-Mane" target="_blank">
+<a href="https://github.com/akankshavm22" target="_blank">
   <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 </div>
