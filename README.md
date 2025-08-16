@@ -1,14 +1,17 @@
 <!-- Banner -->
 ![Akanksha Mane Banner](./banner3.png)
 
-<!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!!
-*B.E. I.T. Student | Cybersecurity Enthusiast*  
-<!-- Image -->
+<!-- Right-side Image -->
 <div>
-  <img align="right" src="https://i.pinimg.com/1200x/1b/6e/8c/1b6e8c66f6d302c0c0156104a52a32be.jpg" 
-       width="300" height="300" alt="Cyber Defense Girl">
+  <img align="right" 
+       src="https://i.pinimg.com/736x/c9/6c/3a/c96c3a772e9c2ee367bfa6f68a793554.jpg" 
+       width="250" height="250"   alt="Cyber Defense Girl">
 </div>
+
+<!-- Header Name -->
+ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+*B.E. I.T. Student | Cybersecurity Enthusiast*  
+<br />
 
 <!-- Intro -->
 <p align="left">
@@ -30,10 +33,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
+  <img align="left" alt="Tech Skills Animation" src="./Skills_Animation_White.gif">
 </picture>
+<br />
 
-<h3 align="left">📘 Current Learning</h3>
+<h3 align="left">📚 Current Learning</h3>
 <ul align="left">
   <li>Defensive Security (Blue Team Operations)</li>
   <li>AI for Threat Detection & Mitigation</li>
@@ -46,6 +50,7 @@
   <li><a href="#">🔐 Vulnerability Scanning with Machine Learning</a></li>
   <li><a href="#">🛡️ Blue Teaming vs Red Teaming – A Research Perspective</a></li>
 </ul>
+<br /><br /><br /><br />
 
 ---
 
@@ -73,20 +78,19 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
   
-  <a href="mailto:akankshavm22@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
-  </a>
+<a href="mailto:akankshavm22@gmail.com" target="_blank">
+  <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
+</a>
 
-  <a href="https://linkedin.com/in/akanksha-mane" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
+<a href="https://linkedin.com/in/akanksha-mane" target="_blank">
+  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
 
-  <a href="https://github.com/Akanksha-Mane" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
+<a href="https://github.com/Akanksha-Mane" target="_blank">
+  <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
 </div>
-
----
+<br/>
 
 <!-- Footer -->
 <p align="center">
