@@ -49,11 +49,13 @@
 <!-- Music Section -->
 <h2 align="center">🎶 Mᴜsɪᴄ & Fʟᴏᴡ 🎶</h2>
 <p align="center">Here’s what I code & research with 🎧</p>
+
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/playlist/74HmbyuezXvyykKArKeOCX" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Play%20My%20Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
   </a>
 </p>
+
 
 ---
 
@@ -68,9 +70,15 @@
 <!-- Connect With Me -->
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-<a href="mailto:akankshavm22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/akanksha-mane"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="https://github.com/Akanksha-Mane"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
+  <a href="mailto:akankshavm22@gmail.com">
+    <img src="./gmail.png" alt="Email" height="80">
+  </a>
+  <a href="https://linkedin.com/in/akanksha-mane">
+    <img src="./linkedin.png" alt="LinkedIn" height="80">
+  </a>
+  <a href="https://github.com/Akanksha-Mane">
+    <img src="./github.png" alt="GitHub" height="80">
+  </a>
 </p>
 
 ---
