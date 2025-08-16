@@ -1,18 +1,15 @@
 <!-- Banner -->
 ![Akanksha Mane Banner](./banner3.png)
-
+<!-- Header Name -->
+# ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  <img src="blob-sunglasses.gif" width="30"/>
+*B.E. I.T. Student | Cybersecurity Enthusiast*  
+<br/>
 <!-- Right-side Image -->
 <div>
   <img align="right" 
-       src="https://i.pinimg.com/736x/c9/6c/3a/c96c3a772e9c2ee367bfa6f68a793554.jpg" 
+       src="https://i.pinimg.com/736x/6b/5a/c9/6b5ac98b41f16076692b2e51129ed1ce.jpg" 
        width="250" height="250"   alt="Cyber Defense Girl">
 </div>
-
-<!-- Header Name -->
-ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-*B.E. I.T. Student | Cybersecurity Enthusiast*  
-<br />
-
 <!-- Intro -->
 <p align="left">
   I am a <strong>BE Information Technology student</strong> at Yadavrao Tasgaokar College of Engineering & Management.  
