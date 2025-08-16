@@ -1,11 +1,15 @@
 <!-- Banner -->
 ![Akanksha Mane Banner](./banner.png)
 
-<!-- Header -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  
-*B.E. I.T. Student | Cybersecurity Enthusiast*
+<!-- Night Owl Image -->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
----
+<!-- Header Name -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  
+*B.E. I.T. Student | Cybersecurity Enthusiast*  
+<br />
 
 <!-- Intro -->
 <p align="left">
@@ -23,6 +27,7 @@
 
 <!-- Tech Stack Section -->
 <h2 align="center">🛠 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -43,6 +48,10 @@
   <li><a href="#">🔐 Vulnerability Scanning with Machine Learning</a></li>
   <li><a href="#">🛡️ Blue Teaming vs Red Teaming – A Research Perspective</a></li>
 </ul>
+<br />
+<br />
+<br />
+<br />
 
 ---
 
@@ -52,15 +61,14 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/74HmbyuezXvyykKArKeOCX" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Play%20My%20Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+    <img src="/spotify.png" alt="Spotify Playlist" width="80"/>
   </a>
 </p>
-
 
 ---
 
 <!-- Quote of the Day -->
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Turing&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
@@ -68,20 +76,22 @@
 ---
 
 <!-- Connect With Me -->
-<h2 align="center">🤝 Connect With Me</h2>
-<p align="center">
-  <a href="mailto:akankshavm22@gmail.com">
-    <img src="./gmail.png" alt="Email" height="80">
-  </a>
-  <a href="https://linkedin.com/in/akanksha-mane">
-    <img src="./linkedin.png" alt="LinkedIn" height="80">
-  </a>
-  <a href="https://github.com/Akanksha-Mane">
-    <img src="./github.png" alt="GitHub" height="80">
-  </a>
-</p>
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:akankshavm22@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
+</a>
 
----
+<a href="https://linkedin.com/in/akanksha-mane" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/Akanksha-Mane" target="_blank">
+<img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
 
 <!-- Footer -->
 <p align="center">
