@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Kiran1689 Banner Image](./banner.png)
+![Akanksha Mane Banner](./banner3.png)
 <!-- Night Owl Image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
