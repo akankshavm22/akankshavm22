@@ -1,14 +1,15 @@
 <!-- Banner -->
 ![Akanksha Mane Banner](./banner3.png)
 
-<!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  
-*B.E. I.T. Student | Cybersecurity Enthusiast*  
 <!-- Image -->
 <div>
   <img align="right" src="https://i.pinimg.com/1200x/eb/5a/66/eb5a666d9b9cb905722bbad75e2febf2.jpg" 
        width="300" height="300" alt="Cyber Defense Girl">
 </div>
+
+<!-- Header Name -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴋᴀɴᴋsʜᴀ!  
+*B.E. I.T. Student | Cybersecurity Enthusiast*  
 
 <!-- Intro -->
 <p align="left">
