@@ -43,8 +43,8 @@
   
 <h3 align="left">📝 Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://medium.com/@akankshavm22/how-ai-can-transform-cyber-defense-3205d942ba30">🔥 How AI Can Transform Cyber Defense</a></li>
-  <li><a href="#">🔐 Vulnerability Scanning with Machine Learning</a></li>
+  <li><a href="https://medium.com/@secbyakanksha/how-ai-can-transform-cyber-defense-3205d942ba30">🔥 How AI Can Transform Cyber Defense</a></li>
+  <li><a href="https://medium.com/@secbyakanksha/why-mobile-apps-do-more-than-desktop-a-security-perspective-007faf71df83">🔐 Why Mobile Apps Do More Than Desktop — A Security Perspective</a></li>
   <li><a href="#">🛡️ Blue Teaming vs Red Teaming – A Research Perspective</a></li>
 </ul>
 <br /><br /><br /><br />
