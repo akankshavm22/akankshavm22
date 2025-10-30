@@ -94,5 +94,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&wave=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=150&section=footer&animation=twinkling&wave=180"/>
 </p>
+
