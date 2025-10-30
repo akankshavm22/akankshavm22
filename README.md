@@ -66,7 +66,7 @@
 <!-- Quote of the Day -->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Turing&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Cyber%20Insight&quote=Security%20isn’t%20a%20product—it’s%20a%20mindset%20that%20evolves%20daily.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Cybersecurity Thought of the Day">
 </p>
 
 ---
@@ -91,5 +91,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&wave=100"/>
 </p>
