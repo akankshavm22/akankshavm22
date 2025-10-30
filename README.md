@@ -85,6 +85,10 @@
 <a href="https://github.com/akankshavm22" target="_blank">
   <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://medium.com/@secbyakanksha" target="_blank">
+  <img src="./medium.png" width="50" height="50" alt="Medium" style="margin-bottom: 5px;" />
+</a>
 </div>
 <br/>
 
