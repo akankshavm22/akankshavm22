@@ -45,7 +45,7 @@
 <ul align="left">
   <li><a href="https://medium.com/@secbyakanksha/how-ai-can-transform-cyber-defense-3205d942ba30">🔥 How AI Can Transform Cyber Defense</a></li>
   <li><a href="https://medium.com/@secbyakanksha/why-mobile-apps-do-more-than-desktop-a-security-perspective-007faf71df83">🔐 Why Mobile Apps Do More Than Desktop — A Security Perspective</a></li>
-  <li><a href="#">🛡️ Blue Teaming vs Red Teaming – A Research Perspective</a></li>
+  <li><a href="https://medium.com/@secbyakanksha/ai-browsers-smart-fast-and-a-bit-too-curious-ee0d8e0e8863">🛡️ AI Browsers: Smart, Fast, and a Bit Too Curious</a></li>
 </ul>
 <br /><br /><br /><br />
 
@@ -54,9 +54,8 @@
 <!-- Music Section -->
 <h2 align="center">🎶 Mᴜsɪᴄ & Fʟᴏᴡ 🎶</h2>
 <p align="center">Here’s what I code & research with 🎧</p>
-
 <p align="center">
-  <a href="https://open.spotify.com/playlist/74HmbyuezXvyykKArKeOCX" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7" target="_blank">
     <img src="./spotify.png" alt="Spotify Playlist" width="80"/>
   </a>
 </p>
